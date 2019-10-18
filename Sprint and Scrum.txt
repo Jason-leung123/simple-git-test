@@ -1,0 +1,15 @@
+Sprint/Scrum: 
+A short, time-boxed period where a set amount of work is complete. 
+Constant meetings are made to assess progress.
+
+Advantage
+	- Flexiable (able to review project and make changes when needed)
+	- Able to gain client's feedback
+	
+Disadvantage
+	- Can lead to delay if a team member is unable to complete their task
+	- If a team members leaves, it can cause a huge impact on the project
+Reasons to use this methodology:
+	- Unlike waterfall methodology where it cannot review its completed 
+	  stages the sprint/scrum can.
+	- Able to view the progress of each team member (Provide support)
